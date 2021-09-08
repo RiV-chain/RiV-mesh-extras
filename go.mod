@@ -1,4 +1,4 @@
-module github.com/yggdrasil-network/yggdrasil-extras
+module github.com/RiV-chain/RiV-mesh-extras
 
 go 1.16
 
