@@ -3,6 +3,8 @@ github.com/Arceliar/ironwood v0.0.0-20210619124114-6ad55cae5031/go.mod h1:RP72ru
 github.com/Arceliar/phony v0.0.0-20210209235338-dde1a8dca979 h1:WndgpSW13S32VLQ3ugUxx2EnnWmgba1kCqPkd4Gk1yQ=
 github.com/Arceliar/phony v0.0.0-20210209235338-dde1a8dca979/go.mod h1:6Lkn+/zJilRMsKmbmG1RPoamiArC6HS73xbwRyp3UyI=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/RiV-chain/RiV-mesh v0.4.1-0.20210906152728-6bfbc3d4ffac h1:q1UG/NO1y47q7FzVw99nKCWA4FKhhrR5+TREKHPB/aQ=
+github.com/RiV-chain/RiV-mesh v0.4.1-0.20210906152728-6bfbc3d4ffac/go.mod h1:klZKFy5qaCiE6iHgrmCA7/GTsSFOhweOWMI+0KOpgcQ=
 github.com/VividCortex/ewma v1.1.1/go.mod h1:2Tkkvm3sRDVXaiyucHiACn4cqf7DpdyLvmxzcbUokwA=
 github.com/VividCortex/ewma v1.2.0/go.mod h1:nz4BbCtbLyFDeC9SUHbtcT5644juEuWfUAUnGx7j5l4=
 github.com/cheggaaa/pb/v3 v3.0.8/go.mod h1:UICbiLec/XO6Hw6k+BHEtHeQFzzBH4i2/qk/ow1EJTA=
