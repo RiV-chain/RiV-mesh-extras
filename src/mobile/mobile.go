@@ -49,7 +49,7 @@ func (m *Mesh) StartJSON(configjson []byte) error {
 		return err
 	}
 	m.config.IfName = "none"
-	if err := m.core.Start(&m.config, logger); err != nil {
+	if err := m.core.Start(m.config, logger); err != nil {
 		logger.Errorln("An error occured starting Mesh:", err)
 		return err
 	}
