@@ -8,8 +8,6 @@ import (
 
 	"github.com/gologme/log"
 
-	hjson "github.com/hjson/hjson-go"
-	"github.com/mitchellh/mapstructure"
 	"github.com/RiV-chain/RiV-mesh/src/address"
 	"github.com/RiV-chain/RiV-mesh/src/config"
 	"github.com/RiV-chain/RiV-mesh/src/core"
