@@ -12,6 +12,7 @@ import (
 	"github.com/RiV-chain/RiV-mesh/src/config"
 	"github.com/RiV-chain/RiV-mesh/src/core"
 	"github.com/RiV-chain/RiV-mesh/src/defaults"
+	"github.com/RiV-chain/RiV-mesh/src/ipv6rwc"
 	"github.com/RiV-chain/RiV-mesh/src/multicast"
 	"github.com/RiV-chain/RiV-mesh/src/version"
 
